@@ -1,7 +1,7 @@
 {
   "name": "timespan",
   "description": "A JavaScript TimeSpan library for node.js (and soon the browser)",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "author": "Michael Stum <blog@stum.de>",
   "contributors": [
     { "name": "Charlie Robbins", "email": "charlie.robbins@gmail.com" }
