@@ -3,6 +3,7 @@
   "description": "A JavaScript TimeSpan library for node.js (and soon the browser)",
   "version": "2.3.0",
   "author": "Michael Stum <blog@stum.de>",
+  "license": "MIT",
   "contributors": [
     { "name": "Charlie Robbins", "email": "charlie.robbins@gmail.com" }
   ],
